@@ -11,7 +11,7 @@
     </tr>
     <tr>
       <td> <img src="https://github.com/VerbatimString/ActivityRoulette/raw/main/app_showcase.gif"/> </td>
-      <td> <img src="https://private-user-images.githubusercontent.com/98693542/372672336-0c4d1f4e-e9fa-4c55-b8fb-5a0eb42f1cde.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIwMjc2NTgsIm5iZiI6MTc1MjAyNzM1OCwicGF0aCI6Ii85ODY5MzU0Mi8zNzI2NzIzMzYtMGM0ZDFmNGUtZTlmYS00YzU1LWI4ZmItNWEwZWI0MmYxY2RlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzA5VDAyMTU1OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWEyMmVlZGZiODBlNGZmMzMxNTQ1YTgzZTQ5NWY1NGQ5NDk1MzNiMjA4MDBjMjFmOWI0ZDY2MGY1NTNlZmJjNzcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.92_pOzLdlgJb5dsxJzl70M8A4yOsTb90iMCcntGScZU"/> </td>
+      <td> <img src="https://github.com/VerbatimString/VerbatimString/blob/main/imaginary_wallpapers.gif?raw=true"/> </td>
       <td> <img src="https://github.com/VerbatimString/VerbatimString/blob/main/echoplex.gif?raw=true"/> </td>
       <td> <img src="https://github.com/VerbatimString/VerbatimString/blob/main/abstract_visualizer.gif?raw=true"/> </td>
       <td> <img src="https://github.com/VerbatimString/VerbatimString/blob/main/motioncast.gif?raw=true"> </td>
